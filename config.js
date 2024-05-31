@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'Stack',
+					link: 'https://stackoverflow.com/',
 				},
 				{
-					name: 'X',
-					link: 'https://www.x.com',
+					name: 'Oracle',
+					link: 'https://docs.oracle.com/en/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Roadmap',
+					link: 'https://www.roadmap.sh',
 				},
 			],
 		},
